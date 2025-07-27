@@ -20,6 +20,7 @@ import java.nio.charset.StandardCharsets;
 
 /**
  * Utility class for data operations.
+ * Ref: https://www.ncei.noaa.gov/sites/default/files/2020-04/wodreadme_0.pdf
  */
 public class DataUtil {
     private static final String[] localFiles = {
